@@ -13,3 +13,5 @@ and conditional inference decision tree modelling for suicide risk. I also have 
 using SPSS and am currently learning using Python for data analysis. A project I am currently
 developing involves using big qualitative data to investigate the subjective experience of
 people hospitalized in psychiatric institutions using sentiment analysis and thematic coding.
+
+You can find me on [linkedin](https://www.linkedin.com/in/zoe-habel/) :)
