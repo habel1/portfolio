@@ -20,10 +20,6 @@ You can find me on [linkedin](https://www.linkedin.com/in/zoe-habel/) :)
 
 I've included some of my work as part of my intro data science course down below:
 
-<<<<<<< HEAD
-[Data Visualization Project: Stressors in the LGB Population](https://github.com/habel1/data_viz_stressors_LGB/blob/main/Stressors%20in%20the%20LGB%20Population.md)
-[Data Cleaning + Wrangling Project: 'Alone' Survivalist Statistics](https://github.com/habel1/joy_of_wrangling_ALONE/blob/main/The%20Joys%20of%20Data%20Wrangling%3A%20A%20Tutorial%20using%20Stats%20from%20Alone%20Contestants.md)
-=======
 ### Data Visualizations in R
 #### Stressors in the LGB Population
 
@@ -67,4 +63,3 @@ ore info about the data sets can be found on his [blog](https://gradientdescendi
 and on the [github repository](https://github.com/doehm/alone) containing the source code.
 
 [Full post HERE | Data Cleaning + Wrangling Project: 'Alone' Survivalist Statistics](https://github.com/habel1/joy_of_wrangling_ALONE/blob/main/The%20Joys%20of%20Data%20Wrangling%3A%20A%20Tutorial%20using%20Stats%20from%20Alone%20Contestants.md)
->>>>>>> ae2ea2a (adding projects to portfolio)
