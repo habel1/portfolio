@@ -10,7 +10,7 @@ I am proficient performing data analysis with the programming language R, and ha
 
 You can find me on [linkedin](https://www.linkedin.com/in/zoe-habel/) :)
 
-![](profesh_pic.png){width="300"}
+![](profesh_pic.png){width="75"}
 
 ------------------------------------------------------------------------
 
