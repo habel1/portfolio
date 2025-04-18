@@ -42,7 +42,7 @@ certain healthcare outcomes.
 Additionally, I also wanted to see how well represented different groups were across 
 the study as a whole and at each wave.
 
-[Full post HERE | Data Visualization Project: Stressors in the LGB Population](https://github.com/habel1/data_viz_stressors_LGB/blob/main/Stressors%20in%20the%20LGB%20Population.md)
+[Full post HERE : Data Visualization Project: Stressors in the LGB Population](https://github.com/habel1/data_viz_stressors_LGB/blob/main/Stressors%20in%20the%20LGB%20Population.md)
 
 ### Data Cleaning + Wrangling in R
 
@@ -62,4 +62,4 @@ Statistician Daniel Oehm created 4 excellent data sets containing various statis
 ore info about the data sets can be found on his [blog](https://gradientdescending.com/alone-r-package-datasets-from-the-survival-tv-series/) 
 and on the [github repository](https://github.com/doehm/alone) containing the source code.
 
-[Full post HERE | Data Cleaning + Wrangling Project: 'Alone' Survivalist Statistics](https://github.com/habel1/joy_of_wrangling_ALONE/blob/main/The%20Joys%20of%20Data%20Wrangling%3A%20A%20Tutorial%20using%20Stats%20from%20Alone%20Contestants.md)
+[Full post HERE : Data Cleaning + Wrangling Project: 'Alone' Survivalist Statistics](https://github.com/habel1/joy_of_wrangling_ALONE/blob/main/The%20Joys%20of%20Data%20Wrangling%3A%20A%20Tutorial%20using%20Stats%20from%20Alone%20Contestants.md)
