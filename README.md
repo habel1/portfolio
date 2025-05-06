@@ -18,6 +18,24 @@ You can find me on [linkedin](https://www.linkedin.com/in/zoe-habel/) :)
 
 I've included some of my work as part of my intro data science course down below:
 
+### Final Project:
+
+## **Project Background + Research Aims**
+
+For this brief project, I decided to investigate the impact of stressors specific to the trans community on the social well-being and satisfaction with life of TGNC adults. By identifying patterns in the data, I endeavor to uncover what makes a TGNC person more likely to thrive, and thus, how we can help transgender lives flourish.
+
+### ***Question: Which experiences and stressors (or the lack thereof) are most pertinent to the social well-being and satisfaction with life of TGNC adults?***
+
+## **Procedure**
+
+I chose to utilize a conditional inference tree model for my analysis. Conditional inference trees offer a robust method for regression analysis in decision trees and work well with multivariate analysis.
+
+13 variables were included as potential predictors in the conditional inference tree models. Four total models were fitted; one tree with only the 4 demographic variables included as predictors for both outcome measures, and one tree with the 9 remaining variables included as predictors for both outcome measures.
+
+To view the md blog post click [here](https://github.com/habel1/datasci_final/blob/0e79074f4e1ccbf1e0da71c7b939ec17f9ecbf0f/README.md)
+
+To view the a pdf of the powerpoint slides click [here](https://github.com/habel1/datasci_final/blob/0e79074f4e1ccbf1e0da71c7b939ec17f9ecbf0f/transpop_final.pdf)
+
 ### Data Visualizations in R
 
 #### Stressors in the LGB Population
